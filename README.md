@@ -5,7 +5,7 @@
 - 📫 You can reach me by ping me on...
 
 ---
-## OS Stack
+## Technologies
 
 <p align="center">
       <img src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-icon.svg" alt="ubuntu" width="60" height="80"/>
