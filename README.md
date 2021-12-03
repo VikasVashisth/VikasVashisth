@@ -10,9 +10,7 @@
 <p align="center">
       <img src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-icon.svg" alt="ubuntu" width="60" height="80"/>
       <img src="https://www.vectorlogo.zone/logos/microsoft/microsoft-icon.svg" alt="ms" width="60" height="80"/>
-      
-      
-            <img src="https://www.vectorlogo.zone/logos/github/github-ar21.svg" alt="github-ar21" width="60" height="80"/>
+      <img src="https://www.vectorlogo.zone/logos/github/github-ar21.svg" alt="github-ar21" width="60" height="80"/>
       <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="55" height="55"/>
       <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="docker" width="60" height="50"/>
       <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" alt="terraform" width="45" height="55"/>
