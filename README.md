@@ -20,7 +20,17 @@
       <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="aws" width="45" height="55"/>
       <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="45" height="55"/>
       <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="45" height="55"/>
-      
+      <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="jenkins" width="45" height="55"/> 
+      <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="jenkins" width="45" height="55"/>
+      <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="jenkins" width="45" height="55"/>
+      <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="jenkins" width="45" height="55"/>
+      <img src="https://www.vectorlogo.zone/logos/acer/acer-ar21.svg" alt="jenkins" width="45" height="55"/>
+      <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="jenkins" width="45" height="55"/>
+      <img src="https://www.vectorlogo.zone/logos/apache/apache-icon.svg" alt="jenkins" width="45" height="55"/>
+      <img src="https://www.vectorlogo.zone/logos/android/android-icon.svg" alt="jenkins" width="45" height="55"/>
+      <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" alt="jenkins" width="45" height="55"/>
+      <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="jenkins" width="45" height="55"/>
+      <img src="https://www.vectorlogo.zone/logos/vim/vim-icon.svg" alt="jenkins" width="45" height="55"/>
 </p>
 
 
