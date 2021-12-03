@@ -4,6 +4,13 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 You can reach me by ping me on...
 
+---
+### OS Stack
+
+<p align="center">
+      <img src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-icon.svg" alt="ubuntu" width="45" height="55"/>
+      <img src="https://www.vectorlogo.zone/logos/microsoft/microsoft-icon.svg" alt="ms" width="45" height="55"/>
+</p>
 <!---
 VikasVashisth/VikasVashisth is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
