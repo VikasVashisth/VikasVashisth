@@ -11,12 +11,9 @@
       <img src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-icon.svg" alt="ubuntu" width="60" height="80"/>
       <img src="https://www.vectorlogo.zone/logos/microsoft/microsoft-icon.svg" alt="ms" width="60" height="80"/>
 </p>
----
-<!---
-VikasVashisth/VikasVashisth is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
 
+
+---
 ## My Stats
 
 ![Vikas GitHub stats](https://github-readme-stats.vercel.app/api?username=VikasVashisth&show_icons=true&theme=highcontrast)
@@ -26,3 +23,7 @@ You can click the Preview link to take a look at your changes.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VikasVashisth&layout=compact)](https://github.com/VikasVashisth/github-readme-stats)
 
+<!---
+VikasVashisth/VikasVashisth is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
