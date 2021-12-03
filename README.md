@@ -14,14 +14,7 @@ You can click the Preview link to take a look at your changes.
 ![Vikas GitHub stats](https://github-readme-stats.vercel.app/api?username=VikasVashisth&show_icons=true&theme=highcontrast)
 
 
-# Language I have used,
+# Languages, I have used
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VikasVashisth&layout=compact)](https://github.com/VikasVashisth/github-readme-stats)
 
-
-<a href="https://github.com/VikasVashisth/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=VikasVashisth&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/VikasVashisth/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=VikasVashisth&repo=convoychat" />
-</a>
