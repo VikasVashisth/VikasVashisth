@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @VikasVashisth
 - 👀 I’m interested in technology like DevOps and write Code in Java.
-- ✨ You can follow me on Linkedin also -> https://www.linkedin.com/in/vikas-vashisth-v09/
+- ✨ Read my Blogs :- https://blog.knoldus.com/author/vikasvashisth09/
+- Follow me on <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="jenkins" width="45" height="55"/>-> https://www.linkedin.com/in/vikas-vashisth-v09/
 - 💞️ I’m looking to collaborate on ...
 - 📫 You can reach me by ping me on...
 - Read my Blogs :- https://blog.knoldus.com/author/vikasvashisth09/
