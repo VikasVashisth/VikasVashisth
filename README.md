@@ -3,6 +3,7 @@
 - ✨ You can follow me on Linkedin also -> https://www.linkedin.com/in/vikas-vashisth-v09/
 - 💞️ I’m looking to collaborate on ...
 - 📫 You can reach me by ping me on...
+- Read my Blogs :- https://blog.knoldus.com/author/vikasvashisth09/
 
 ---
 ## Technologies
