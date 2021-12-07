@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @VikasVashisth
-- 👀 Currently working on, like DevOps and writes Code in <img src="https://www.vectorlogo.zone/logos/java/java-icon.svgJava" alt="java" width="20" height="15"/>
+- 👀 Currently working on, like DevOps and writes Code in <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="20" height="15"/>
 - ✨ Read my Blogs :- https://blog.knoldus.com/author/vikasvashisth09/
 - Follow me on <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="linkedin" width="20" height="15"/>-> https://www.linkedin.com/in/vikas-vashisth-v09/
 - 💞️ I’m looking to collaborate on ...
@@ -23,6 +23,7 @@
       <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="45" height="55"/>
       <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="jenkins" width="45" height="55"/> 
       <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="jenkins" width="45" height="55"/>
+      <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="45" height="55"/>
       <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="jenkins" width="45" height="55"/>
       <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="jenkins" width="45" height="55"/>
       <img src="https://www.vectorlogo.zone/logos/acer/acer-ar21.svg" alt="jenkins" width="45" height="55"/>
