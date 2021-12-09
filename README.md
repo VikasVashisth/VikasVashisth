@@ -4,8 +4,7 @@
 - Follow me on <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="linkedin" width="20" height="15"/>-> https://www.linkedin.com/in/vikas-vashisth-v09/
 - 💞️ I’m looking to collaborate on ...
 - 📫 You can reach me by ping me.
----
-## Installation Guide to Run Selenium Project
+---## Installation Guide to Run Selenium Project
 
 If you want to run your maven project which consists of Selenium Work, either you can use IntelliJ or use Maven.
 
@@ -25,7 +24,7 @@ To run the shell script, use **./sh "nameofFile".sh**<br>
 Example:<br>
 `./sh intellij_install.sh`<br>
 
-To run the maven project , open the terminal and run these commands.<br>
+To run the maven project , open the terminal and run these commands where the project is present.<br>
 `mvn clean`<br>
 `mvn test`<br>
 
