@@ -4,7 +4,14 @@
 - Follow me on <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="linkedin" width="20" height="15"/>-> https://www.linkedin.com/in/vikas-vashisth-v09/
 - 💞️ I’m looking to collaborate on ...
 - 📫 You can reach me by ping me.
+---
+# Installation Guide for Basic Need to Run Selenium Project
 
+If you want to run your maven project which consists of Selenium Work
+
+<li>Intellij</li>
+
+> ./sh intellij_install.sh
 ---
 ## Technologies
 
