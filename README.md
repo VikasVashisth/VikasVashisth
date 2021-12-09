@@ -17,7 +17,7 @@ This file has consists installation of,
 <li>Chrome Browser</li>
 <li>FireFox Browser</li>
 
-To run the shell script, use #######./sh "nameofFile".sh
+To run the shell script, use ######./sh "nameofFile".sh
 
 Example,
 > ./sh intellij_install.sh
