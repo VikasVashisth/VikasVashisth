@@ -5,11 +5,12 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 You can reach me by ping me.
 ---
-## Installation Guide for Basic Need to Run Selenium Project
+## Installation Guide to Run Selenium Project
 
 If you want to run your maven project which consists of Selenium Work, either you can use IntelliJ or use Maven.
 
-To run the maven project , open the terminal and run these commands.
+To run the maven project , open the terminal and run these commands.<br>
+
 `>mvn clean`
 `>mvn test`
 
@@ -28,7 +29,10 @@ In the `Selenium-Basic-Installation-Package` folder consists of,
 To run the shell script, use **./sh "nameofFile".sh**
 
 Example,
+
 `> ./sh intellij_install.sh`
+
+
 
 
 ---
