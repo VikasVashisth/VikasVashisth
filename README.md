@@ -7,10 +7,15 @@
 ---
 # Installation Guide for Basic Need to Run Selenium Project
 
-If you want to run your maven project which consists of Selenium Work
+If you want to run your maven project which consists of Selenium Work, either you can use 
 
 <li>Intellij</li>
+<li>Java</li>
+<li>Maven</li>
+<li>Chrome Browser</li>
+<li>FireFox Browser</li>
 
+To run the shell script, use *./sh "nameofFile".sh*
 > ./sh intellij_install.sh
 ---
 ## Technologies
