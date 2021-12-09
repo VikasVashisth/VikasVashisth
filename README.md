@@ -9,10 +9,6 @@
 
 If you want to run your maven project which consists of Selenium Work, either you can use IntelliJ or use Maven.
 
-To run the maven project , open the terminal and run these commands.<br>
-`mvn clean`<br>
-`mvn test`
-
 In the `Selenium-Basic-Installation-Package` folder consists of,
 
 <li>Intellij</li>
@@ -23,13 +19,18 @@ In the `Selenium-Basic-Installation-Package` folder consists of,
 
 <li>Chrome Browser</li>
 
-<li>FireFox Browser</li>
+<li>FireFox Browser</li><br>
 
-To run the shell script, use **./sh "nameofFile".sh**
-<br>
-Example:
-<br>
-`> ./sh intellij_install.sh`
+To run the shell script, use **./sh "nameofFile".sh**<br>
+Example:<br>
+`./sh intellij_install.sh`<br>
+
+To run the maven project , open the terminal and run these commands.<br>
+`mvn clean`<br>
+`mvn test`<br>
+
+To run the project in intellij just open the project and run the test cases.
+
 
 ---
 ## Technologies
