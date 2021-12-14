@@ -10,44 +10,43 @@
 
 If you want to run your maven project which consists of Selenium Work, either you can use IntelliJ or use Maven.
 
-In the `Selenium-Basic-Installation-Package` folder consists of,
-
+Lists:
 <li>Intellij</li>
 
-`sudo apt-get -y update`
-`sudo snap install intellij-idea-community --classic`
-`echo "============= Intellij Installed=================="`
-`sudo apt-get -y update`
+`sudo apt-get -y update`<br>
+`sudo snap install intellij-idea-community --classic`<br>
+`echo "============= Intellij Installed=================="`<br>
+`sudo apt-get -y update`<br>
 
 <li>Java</li>
 
-`sudo apt install default-jre -y`
-`echo "============= Java jre Installed =================="`
-`sudo apt install default-jdk -y`
-`echo "============= Java jdk Installed =================="`
-`echo "============= Java Version ===================="`
-`java -version`
+`sudo apt install default-jre -y`<br>
+`echo "============= Java jre Installed =================="`<br>
+`sudo apt install default-jdk -y`<br>
+`echo "============= Java jdk Installed =================="`<br>
+`echo "============= Java Version ===================="`<br>
+`java -version`<br>
 
 <li>Maven</li>
 
-`sudo apt update`
-`sudo apt install maven`
-`echo "============= Maven Installed=================="`
-`mvn -version`
+`sudo apt update`<br>
+`sudo apt install maven`<br>
+`echo "============= Maven Installed=================="`<br>
+`mvn -version`<br>
 
 <li>Chrome Browser</li>
 
-`sudo apt-get -y update`
-`wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb`
-`echo "============= Chrome Downloaded=================="`
-`sudo apt install ./google-chrome-stable_current_amd64.deb`
-`echo "============= Chrome Installed=================="`
+`sudo apt-get -y update`<br>
+`wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb`<br>
+`echo "============= Chrome Downloaded=================="`<br>
+`sudo apt install ./google-chrome-stable_current_amd64.deb`<br>
+`echo "============= Chrome Installed=================="`<br>
 
 <li>FireFox Browser</li><br>
 
-`sudo apt-get update`
-`sudo apt install firefox`
-`echo "============= Firefox Installed=================="`
+`sudo apt-get update`<br>
+`sudo apt install firefox`<br>
+`echo "============= Firefox Installed=================="`<br>
 
 
 To run the shell script, use **./sh "nameofFile".sh**<br>
@@ -60,7 +59,7 @@ To run the maven project , open the terminal and run these commands where the pr
 
 To run the project in intellij just open the project and run the test cases.
 
-## Use of Refresh
+## Use of Refresh methods in Selenium
 
 
 During test automation of web-based application, there comes a need for the page to be refreshed multiple times for all 
