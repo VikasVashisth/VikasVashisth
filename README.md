@@ -42,7 +42,7 @@ Lists:
 `sudo apt install ./google-chrome-stable_current_amd64.deb`<br>
 `echo "============= Chrome Installed=================="`<br>
 
-<li>FireFox Browser</li><br>
+<li>FireFox Browser</li>
 
 `sudo apt-get update`<br>
 `sudo apt install firefox`<br>
@@ -64,10 +64,19 @@ To run the project in intellij just open the project and run the test cases.
 
 During test automation of web-based application, there comes a need for the page to be refreshed multiple times for all 
 web elements to be loaded completely. 
+
 On the initial page load, some web elements might be loaded while it takes a second page refresh for all web elements to
 be loaded. 
+
 This can be done using the refresh command provided by Selenium web driver. 
+
 Browser refresh operation can be performed using the following ways in Selenium
+
+Here You will find , these four through which you can use the refresh methods and add in your project as per the requirement.
+[1] Get method.
+[2] Navigate method.
+[3] Send Keys method using F5 Key.
+[4] Send Keys method using ASCII Code.
 
 ---
 ## Technologies
