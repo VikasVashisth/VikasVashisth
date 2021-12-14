@@ -72,11 +72,11 @@ This can be done using the refresh command provided by Selenium web driver.
 
 Browser refresh operation can be performed using the following ways in Selenium
 
-Here You will find , these four through which you can use the refresh methods and add in your project as per the requirement.
-[1] Get method.
-[2] Navigate method.
-[3] Send Keys method using F5 Key.
-[4] Send Keys method using ASCII Code.
+Here You will find , these four through which you can use the refresh methods and add in your project as per the requirement.<br>
+[1] Get method.<br>
+[2] Navigate method.<br>
+[3] Send Keys method using F5 Key.<br>
+[4] Send Keys method using ASCII Code.<br>
 
 ---
 ## Technologies
