@@ -4,6 +4,7 @@
 - Follow me on <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="linkedin" width="20" height="15"/>-> https://www.linkedin.com/in/vikas-vashisth-v09/
 - 💞️ I’m looking to collaborate on ...
 - 📫 You can reach me by ping me.
+
 ---
 ## Installation Guide to Run Selenium Project
 
@@ -13,13 +14,41 @@ In the `Selenium-Basic-Installation-Package` folder consists of,
 
 <li>Intellij</li>
 
+`sudo apt-get -y update`
+`sudo snap install intellij-idea-community --classic`
+`echo "============= Intellij Installed=================="`
+`sudo apt-get -y update`
+
 <li>Java</li>
+
+`sudo apt install default-jre -y`
+`echo "============= Java jre Installed =================="`
+`sudo apt install default-jdk -y`
+`echo "============= Java jdk Installed =================="`
+`echo "============= Java Version ===================="`
+`java -version`
 
 <li>Maven</li>
 
+`sudo apt update`
+`sudo apt install maven`
+`echo "============= Maven Installed=================="`
+`mvn -version`
+
 <li>Chrome Browser</li>
 
+`sudo apt-get -y update`
+`wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb`
+`echo "============= Chrome Downloaded=================="`
+`sudo apt install ./google-chrome-stable_current_amd64.deb`
+`echo "============= Chrome Installed=================="`
+
 <li>FireFox Browser</li><br>
+
+`sudo apt-get update`
+`sudo apt install firefox`
+`echo "============= Firefox Installed=================="`
+
 
 To run the shell script, use **./sh "nameofFile".sh**<br>
 Example:<br>
@@ -31,6 +60,15 @@ To run the maven project , open the terminal and run these commands where the pr
 
 To run the project in intellij just open the project and run the test cases.
 
+## Use of Refresh
+
+
+During test automation of web-based application, there comes a need for the page to be refreshed multiple times for all 
+web elements to be loaded completely. 
+On the initial page load, some web elements might be loaded while it takes a second page refresh for all web elements to
+be loaded. 
+This can be done using the refresh command provided by Selenium web driver. 
+Browser refresh operation can be performed using the following ways in Selenium
 
 ---
 ## Technologies
