@@ -1,12 +1,13 @@
 - 👋 Hi, I’m @VikasVashisth
-- 👀 Currently working on, like DevOps and writes Code in <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="25" height="20"/>
+- 👀 Currently working as, Sr. DevOps Engineer , <img src="URL_of_DevOps_logo.svg" alt="devops" width="25" height="20"/>
+
 - ✨ Read my Blogs :- https://blog.knoldus.com/author/vikasvashisth09/
 - Follow me on <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="linkedin" width="20" height="15"/>-> https://www.linkedin.com/in/vikas-vashisth-v09/
-- 💞️ I’m looking to collaborate on ...
-- 📫 You can reach me by ping me.
+
 
 ---
 <p align="left">
+Follow me on : <br>
 <a href="https://linkedin.com/in/vikas-vashisth-v09" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="https://www.linkedin.com/in/vikas-vashisth-v09" height="30" width="40" /></a>
 </p>
 ---
