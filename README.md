@@ -1,33 +1,73 @@
+# Currently this README in Progress , 
+
 - 👋 Hi, I’m @VikasVashisth
-- 👀 Currently working as, Sr. DevOps Engineer , <img src="URL_of_DevOps_logo.svg" alt="devops" width="25" height="20"/>
+- 👀 Currently working as, Sr. DevOps Engineer
+
+ <!-- , <img src="URL_of_DevOps_logo.svg" alt="devops" width="25" height="20"/> -->
 
 - ✨ Read my Blogs :- https://blog.knoldus.com/author/vikasvashisth09/
-- Follow me on <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="linkedin" width="20" height="15"/>-> https://www.linkedin.com/in/vikas-vashisth-v09/
+
 
 
 ---
 <p align="left">
-Follow me on : <br>
+Follow me on :
+
 <a href="https://linkedin.com/in/vikas-vashisth-v09" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="https://www.linkedin.com/in/vikas-vashisth-v09" height="30" width="40" /></a>
+
+
+
 </p>
----
+
 
 ---
 ## Technologies
 
+### Orchestration 
+
+<img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" alt="terraform" width="45" height="55"/>
+<img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="55" height="55"/>
+
+---
+### SCM
+
+<img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="github-ar21" width="60" height="80"/>
+    
+---
+
+### Containerization
+
+<img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="docker" width="60" height="50"/>
+
+---
+### Operation System
+
+<img src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-icon.svg" alt="ubuntu" width="60" height="80"/>  
+<img src="https://www.vectorlogo.zone/logos/microsoft/microsoft-icon.svg" alt="ms" width="60" height="80"/>
+
+---
+
+### Code Editor
+
+<img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="jenkins" width="45" height="55"/>   
+<img src="https://www.vectorlogo.zone/logos/vim/vim-icon.svg" alt="jenkins" width="45" height="55"/>
+
+
+---
+
+### CI/CD
+
+<img src="https://www.vectorlogo.zone/logos/circleci/circleci-icon.svg" alt="circleci" width="45" height="55"/>
+<img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="45" height="55"/>
+
+
+---
+
 <p align="center">
-      <img src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-icon.svg" alt="ubuntu" width="60" height="80"/>
-      <img src="https://www.vectorlogo.zone/logos/microsoft/microsoft-icon.svg" alt="ms" width="60" height="80"/>
-      <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="github-ar21" width="60" height="80"/>
-      <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="55" height="55"/>
-      <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="docker" width="60" height="50"/>
-      <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" alt="terraform" width="45" height="55"/>
       <img src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg" alt="ansible" width="45" height="55"/>
-      <img src="https://www.vectorlogo.zone/logos/circleci/circleci-icon.svg" alt="circleci" width="45" height="55"/>
       <img src="https://www.vectorlogo.zone/logos/concourse-ci/concourse-ci-icon.svg" alt="concourse" width="45" height="55"/>
       <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="aws" width="45" height="55"/>
       <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="45" height="55"/>
-      <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="45" height="55"/>
       <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="jenkins" width="45" height="55"/> 
       <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="jenkins" width="45" height="55"/>
       <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="45" height="55"/>
@@ -38,8 +78,7 @@ Follow me on : <br>
       <img src="https://www.vectorlogo.zone/logos/apache/apache-icon.svg" alt="jenkins" width="45" height="55"/>
       <img src="https://www.vectorlogo.zone/logos/android/android-icon.svg" alt="jenkins" width="45" height="55"/>
       <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" alt="jenkins" width="45" height="55"/>
-      <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="jenkins" width="45" height="55"/>
-      <img src="https://www.vectorlogo.zone/logos/vim/vim-icon.svg" alt="jenkins" width="45" height="55"/>
+
 </p>
 
 
