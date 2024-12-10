@@ -37,13 +37,22 @@ Follow me on :-
 </p>
 
 ---
-## Tools / Technologies used
+## Tools / Technologies
 
-##### Orchestration - <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" alt="terraform" width="45" height="55"/>  <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="55" height="55"/>
+#### Orchestration <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" alt="terraform" width="45" height="55" style="margin-right: 20px;" />  <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="55" height="55"  />
 
 ---
 
-#### Source Code Management -   <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="github-ar21" width="60" height="80"/>  <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/bitbucket/bitbucket-original-wordmark.svg" alt ="bitbucket" width="60" height="50">
+#### Source Code Management -   <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="github-ar21" width="60" height="80" style="margin-right: 20px;" />  <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/bitbucket/bitbucket-original-wordmark.svg" alt ="bitbucket" width="60" height="50">
+
+---
+
+#### Version Control System -   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="jenkins" width="45" height="55"/>
+
+
+---
+
+#### Configuration Managemt tool -       <img src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg" alt="ansible" width="45" height="55"/>
 
 
 ---
@@ -51,37 +60,30 @@ Follow me on :-
 ---
 
 
-#### Operation System - <img src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-icon.svg" alt="ubuntu" width="60" height="80"/>   <img src="https://www.vectorlogo.zone/logos/microsoft/microsoft-icon.svg" alt="ms" width="60" height="80"/>
+#### Operation System - <img src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-icon.svg" alt="ubuntu" width="60" height="80" style="margin-right: 20px;"/>   <img src="https://www.vectorlogo.zone/logos/microsoft/microsoft-icon.svg" alt="ms" width="60" height="80"/>
 ---
 
 
-#### Code Editor - <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="jenkins" width="45" height="55"/>   <img src="https://www.vectorlogo.zone/logos/vim/vim-icon.svg" alt="jenkins" width="45" height="55"/>
+#### Code Editor - <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="jenkins" width="45" height="55" style="margin-right: 20px;"/>   <img src="https://www.vectorlogo.zone/logos/vim/vim-icon.svg" alt="jenkins" width="45" height="55"/>
 ---
 
-#### CI/CD - <img src="https://www.vectorlogo.zone/logos/circleci/circleci-icon.svg" alt="circleci" width="45" height="55"/>  <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="45" height="55"/>
+#### CI/CD - <img src="https://www.vectorlogo.zone/logos/circleci/circleci-icon.svg" alt="circleci" width="45" height="55" style="margin-right: 20px;"/>  <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="45" height="55" style="margin-right: 20px;"/>  <img src="https://www.vectorlogo.zone/logos/concourse-ci/concourse-ci-icon.svg" alt="concourse" width="45" height="55"/>
+
 ---
 
-#### Cloud - 
+#### Cloud -  <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="45" height="55"/>
+
 ---
 #### Programming -       <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="45" height="55"/>
 ---
 
 <p align="center">
-      <img src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg" alt="ansible" width="45" height="55"/>
-      <img src="https://www.vectorlogo.zone/logos/concourse-ci/concourse-ci-icon.svg" alt="concourse" width="45" height="55"/>
-      <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="aws" width="45" height="55"/>
-      <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="45" height="55"/>
-      <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="jenkins" width="45" height="55"/> 
-      <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="jenkins" width="45" height="55"/>
-      <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="jenkins" width="45" height="55"/>
-      <img src="https://www.vectorlogo.zone/logos/acer/acer-ar21.svg" alt="jenkins" width="45" height="55"/>
-      <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="jenkins" width="45" height="55"/>
-      <img src="https://www.vectorlogo.zone/logos/apache/apache-icon.svg" alt="jenkins" width="45" height="55"/>
-      <img src="https://www.vectorlogo.zone/logos/android/android-icon.svg" alt="jenkins" width="45" height="55"/>
-      <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" alt="jenkins" width="45" height="55"/>
-
+aws    <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="aws" width="45" height="55"/>
+kafka  <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="jenkins" width="45" height="55"/> 
+acer   <img src="https://www.vectorlogo.zone/logos/acer/acer-ar21.svg" alt="jenkins" width="45" height="55"/>
+apache <img src="https://www.vectorlogo.zone/logos/apache/apache-icon.svg" alt="jenkins" width="45" height="55"/>
+css    <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" alt="jenkins" width="45" height="55"/>
 </p>
-
 
 ---
 ## My Stats
