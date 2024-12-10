@@ -2,7 +2,7 @@
 ---
 
 <p align="center">
-<img src="https://user-images.githubusercontent.com/74038190/226190894-18e959ba-d458-4a94-ac44-790190f2a947.gif" width="450" align="">
+<img src="https://user-images.githubusercontent.com/74038190/226190894-18e959ba-d458-4a94-ac44-790190f2a947.gif" width="450">
 </p>
 <h1 align="center">I'm Vikas Vashisth</h1>
 
@@ -12,11 +12,8 @@
 
 
 <!-- [![NashTech](https://www.nashtechglobal.com/wp-content/uploads/2023/12/nashTech-logo-red.svg)](https://www.nashtechglobal.com/) -->
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/dad5d025-91c3-43b9-9a3d-1c9266f77cb7" width="300" align="right"> <br>
-
-<p>
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/dad5d025-91c3-43b9-9a3d-1c9266f77cb7" width="300" height="200" align="right"> 
 <img src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif" width="300" height="200">
-</p>
 
   <br><br>
 
