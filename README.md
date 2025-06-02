@@ -7,7 +7,7 @@
 <h1 align="center">I'm Vikas Vashisth</h1>
 
 
--  Currently working as **Sr. DevOps Engineer** at <a href="https://www.sita.aero/"><img src="https://mediaresource.sfo2.digitaloceanspaces.com/wp-content/uploads/2024/09/27105724/SITA-Logo.png" width="100" ></a>
+-  Currently working as **Sr. Infrastructure Engineer** at <a href="https://www.sita.aero/"><img src="https://mediaresource.sfo2.digitaloceanspaces.com/wp-content/uploads/2024/09/27105724/SITA-Logo.png" width="100" ></a>
 
  
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/dad5d025-91c3-43b9-9a3d-1c9266f77cb7" width="300" height="200" align="right"> 
