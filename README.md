@@ -69,7 +69,8 @@ Follow me on :-
 
 ---
 
-#### Cloud -  <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="45" height="55"/>
+#### Cloud -  <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="45" height="55"/>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-ar21~bgwhite.svg" alt="azure" width="80" height="55"/>
+
 
 ---
 #### Programming -       <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="45" height="55"/>
