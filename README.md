@@ -37,7 +37,7 @@ Follow me on :-
 ---
 ## Tools / Technologies
 
-#### Orchestration <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" alt="terraform" width="45" height="55" style="margin-right: 20px;" />  <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="55" height="55"  />
+#### Orchestration <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" alt="terraform" width="45" height="55" style="margin-right: 20px;" />  <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="55" height="55"  />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="assets/redhat_openshift.png" alt="redhat_openshift" width="80" height="55" style="margin-right: 20px;"/> 
 
 ---
 
@@ -62,7 +62,7 @@ Follow me on :-
 ---
 
 
-#### Code Editor - <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="jenkins" width="45" height="55" style="margin-right: 20px;"/>   <img src="https://www.vectorlogo.zone/logos/vim/vim-icon.svg" alt="jenkins" width="45" height="55"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="assets/intellij.png" alt="jenkins" width="45" height="55" style="margin-right: 20px;"/> 
+#### Code Editor - <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="jenkins" width="45" height="55" style="margin-right: 20px;"/>   <img src="https://www.vectorlogo.zone/logos/vim/vim-icon.svg" alt="vim" width="45" height="55"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="assets/intellij.png" alt="intellij" width="45" height="55" style="margin-right: 20px;"/> 
 
 ---
 
