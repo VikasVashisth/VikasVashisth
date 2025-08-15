@@ -62,7 +62,8 @@ Follow me on :-
 ---
 
 
-#### Code Editor - <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="jenkins" width="45" height="55" style="margin-right: 20px;"/>   <img src="https://www.vectorlogo.zone/logos/vim/vim-icon.svg" alt="jenkins" width="45" height="55"/>
+#### Code Editor - <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="jenkins" width="45" height="55" style="margin-right: 20px;"/>   <img src="https://www.vectorlogo.zone/logos/vim/vim-icon.svg" alt="jenkins" width="45" height="55"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="assets/intellij.png" alt="jenkins" width="45" height="55" style="margin-right: 20px;"/> 
+
 ---
 
 #### CI/CD - <img src="https://www.vectorlogo.zone/logos/circleci/circleci-icon.svg" alt="circleci" width="45" height="55" style="margin-right: 20px;"/>  <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="45" height="55" style="margin-right: 20px;"/>  <img src="https://www.vectorlogo.zone/logos/concourse-ci/concourse-ci-icon.svg" alt="concourse" width="45" height="55"/>
