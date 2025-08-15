@@ -67,7 +67,7 @@ Follow me on :-
 
 ---
 
-#### CI/CD - <img src="https://www.vectorlogo.zone/logos/circleci/circleci-icon.svg" alt="circleci" width="45" height="55" style="margin-right: 20px;"/>  <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="45" height="55" style="margin-right: 20px;"/>  <img src="https://www.vectorlogo.zone/logos/concourse-ci/concourse-ci-icon.svg" alt="concourse" width="45" height="55"/>
+#### CI/CD - <img src="assets/azure_devops.png" alt="azure_devops" width="90" height="55" style="margin-right: 20px;"/><img src="https://www.vectorlogo.zone/logos/circleci/circleci-icon.svg" alt="circleci" width="45" height="55" style="margin-right: 20px;"/>  <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="45" height="55" style="margin-right: 20px;"/>  <img src="https://www.vectorlogo.zone/logos/concourse-ci/concourse-ci-icon.svg" alt="concourse" width="45" height="55"/>
 
 ---
 
@@ -80,10 +80,10 @@ Follow me on :-
 
 <p align="center">
 aws    <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="aws" width="45" height="55"/>
-kafka  <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="jenkins" width="45" height="55"/> 
-acer   <img src="https://www.vectorlogo.zone/logos/acer/acer-ar21.svg" alt="jenkins" width="45" height="55"/>
-apache <img src="https://www.vectorlogo.zone/logos/apache/apache-icon.svg" alt="jenkins" width="45" height="55"/>
-css    <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" alt="jenkins" width="45" height="55"/>
+kafka  <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="apache_kafka" width="45" height="55"/> 
+acer   <img src="https://www.vectorlogo.zone/logos/acer/acer-ar21.svg" alt="acer" width="45" height="55"/>
+apache <img src="https://www.vectorlogo.zone/logos/apache/apache-icon.svg" alt="apache" width="45" height="55"/>
+css    <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" alt="css" width="45" height="55"/>
 </p>
 
 ---
