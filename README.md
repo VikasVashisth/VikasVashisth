@@ -57,10 +57,11 @@ Follow me on :-
 #### Containerization  - <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="docker" width="60" height="50"/>
 ---
 
-
-#### Operation System - <img src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-icon.svg" alt="ubuntu" width="60" height="80" style="margin-right: 20px;"/>   <img src="https://www.vectorlogo.zone/logos/microsoft/microsoft-icon.svg" alt="ms" width="60" height="80"/>
+#### Monitoring  - &nbsp;&nbsp;&nbsp;<img src="https://www.vectorlogo.zone/logos/grafana/grafana-ar21~bgwhite.svg" alt="docker" width="80" height="60"/>
 ---
 
+#### Operation System - <img src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-icon.svg" alt="ubuntu" width="60" height="80" style="margin-right: 20px;"/>   <img src="https://www.vectorlogo.zone/logos/microsoft/microsoft-icon.svg" alt="grafana" width="60" height="80"/>
+---
 
 #### Code Editor - <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="jenkins" width="45" height="55" style="margin-right: 20px;"/>   <img src="https://www.vectorlogo.zone/logos/vim/vim-icon.svg" alt="vim" width="45" height="55"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="assets/intellij.png" alt="intellij" width="45" height="55" style="margin-right: 20px;"/> 
 
